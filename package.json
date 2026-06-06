@@ -1,0 +1,9 @@
+{
+  "name": "ep-smart-vendor-portal",
+  "version": "1.0.0",
+  "description": "EP Smart Home Services — Vendor & Operations Portal",
+  "private": true,
+  "dependencies": {
+    "@vercel/kv": "^1.0.0"
+  }
+}
