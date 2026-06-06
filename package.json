@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "EP Smart Home Services — Vendor & Operations Portal",
   "private": true,
+  "type": "module",
   "dependencies": {
     "@vercel/kv": "^1.0.0"
   }
